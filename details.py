@@ -1,0 +1,2 @@
+'''
+GST-Global Sales Tax'''
